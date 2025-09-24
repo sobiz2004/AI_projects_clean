@@ -19,6 +19,7 @@ This project focuses on **image segmentation** using the UNet architecture and i
 3. Check the evaluation metrics and visual results inside the notebook.
 
 The project also includes a presentation video explaining the methodology and results.(Due to the limitations of the coursework, it is in Persian.)
+
 https://drive.google.com/file/d/1DI2AnZTOLkHdu02G2BIT0z2XOUNQNQ2A/view?usp=sharing
 https://drive.google.com/file/d/1BFTkhmJ9wqQAlvBOm_Y6Sxs4qtbnZxe5/view?usp=sharing
 
