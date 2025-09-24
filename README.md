@@ -18,7 +18,7 @@ This project focuses on **image segmentation** using the UNet architecture and i
 2. Run the notebook `Project_Phase1.ipynb` or use the provided Python script.
 3. Check the evaluation metrics and visual results inside the notebook.
 
-The project also includes a presentation video explaining the methodology and results.
+The project also includes a presentation video explaining the methodology and results.(Due to the limitations of the coursework, it is in Persian.)
 https://drive.google.com/file/d/1DI2AnZTOLkHdu02G2BIT0z2XOUNQNQ2A/view?usp=sharing
 https://drive.google.com/file/d/1BFTkhmJ9wqQAlvBOm_Y6Sxs4qtbnZxe5/view?usp=sharing
 
@@ -37,7 +37,7 @@ This project implements the **Soft Actor-Critic (SAC)** reinforcement learning a
 2. Run the notebook `SAC_notebook.ipynb` or the provided Python script.
 3. Visualize the training process and review the agent’s performance in the videos.
 
-The project includes presentation and demonstration videos for better understanding:
+The project includes presentation and demonstration videos for better understanding (Due to the limitations of the coursework, it is in Persian.):
 https://drive.google.com/file/d/1FYwZFFhICnB5UMysamfk4FhDCcoAX5j6/view?usp=sharing
 https://drive.google.com/file/d/1wd5NStg27cAUDVNVRQLxsJUfWrF1sVRv/view?usp=sharing
 https://drive.google.com/file/d/1jGy-NAWcUOP35E-fV6gsrxehp2p80tbo/view?usp=sharing
